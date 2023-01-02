@@ -1,4 +1,3 @@
-// ignore: file_names
 class Transaction {
   String id, title;
   double amount;
